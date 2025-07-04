@@ -1,0 +1,1 @@
+Analiza estas carpetas y comenta los archivos de codigo fuente. Se claro técnico y específico, parate en funciones variables constantes estructuras de control y bucles di que hace cada cosa en castellano puro. No puedes usar ingles
